@@ -14,7 +14,7 @@ Database- PostgreSQL
 # Environment and Setup
 1. **Download the project locally**
 ```
-git clone 
+git clone https://github.com/ibuchi/modified_psycopg2.git
 ```
 
 2. **Activate the virtualenv using:**
