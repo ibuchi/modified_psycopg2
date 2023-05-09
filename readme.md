@@ -68,4 +68,4 @@ Run the application using the following command:
 python task.py
 ```
 
-This will run the application and return query results in JSON string format.
+This will run the application and return query results in JSON string format to the terminal.
