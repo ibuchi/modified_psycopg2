@@ -5,7 +5,7 @@ from psycopg2 import JSONCursor
 # --------------------------------------------------------------------------------------#
 # Database Connection
 # --------------------------------------------------------------------------------------#
-connection = psycopg2.connect('user=postgres dbname=task password=ibuchi596643')
+connection = psycopg2.connect('user=postgres dbname=task')
 
 # --------------------------------------------------------------------------------------#
 # Cursor Connection
