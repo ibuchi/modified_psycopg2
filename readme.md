@@ -1,4 +1,4 @@
-## Introduction
+# Python Task Application
 
 This project modifies the source code of the PostgreSQL driver, `psycopg2`, to return query results in JSON string format. The Python programming language is used for the modification.
 
